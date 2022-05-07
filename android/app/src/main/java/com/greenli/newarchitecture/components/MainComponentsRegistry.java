@@ -1,4 +1,4 @@
-package com.greenli.newarchitecture.components;
+package com.tiptipa.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface greenliTests : XCTestCase
+@interface tiptipaTests : XCTestCase
 
 @end
 
-@implementation greenliTests
+@implementation tiptipaTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL (^)(UIView *view))test
 {
